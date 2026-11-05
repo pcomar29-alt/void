@@ -1,0 +1,6 @@
+{
+  "name": "Study Progress Tracker – 2nd Secondary",
+  "description": "نظام احترافي لمتابعة وإدارة المذاكرة لطلاب الصف الثاني الثانوي مع تحليلات الإنجاز وخطة يومية وتصدير أوفلاين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
